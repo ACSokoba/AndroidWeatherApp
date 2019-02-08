@@ -26,7 +26,7 @@ public class ForecastAdapter extends CursorAdapter {
         View view = LayoutInflater.from(context).inflate(R.layout.list_item_forecast, parent, false);
 
         return view;
-    }
+    }u
 
     /*
         This is where we fill-in the views with the contents of the cursor.
